@@ -7,3 +7,7 @@ Introduction to Data Science with Python (Stats, Linear Algebra, Calculus, Basic
 - Math for Data Analysis
 - Data Manipulation in Python
 - Data Visualisation in Python
+- Deep Learning Andrew Ng
+- Fastai Machine Leanring
+- Fastai Deep Learning
+- Personal Projects
