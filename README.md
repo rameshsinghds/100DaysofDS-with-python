@@ -1,13 +1,19 @@
-# Intro-to-ds-with-python
-Introduction to Data Science with Python (Stats, Linear Algebra, Calculus, Basic Python etc.) with Resources
+# DataScience-with-python
 
-- GIT commands
-- Introduction to Python
+Getting Basics Done
+- Basic GIT commands
 - Introduction to SQL
 - Math for Data Analysis
-- Data Manipulation in Python
-- Data Visualisation in Python
-- Deep Learning Andrew Ng
-- Fastai Machine Leanring
-- Fastai Deep Learning
+
+- Introduction to Python for Data Science (DataCamp/edx) along with book. (To Do)
+- Data Manipulation in Python (Kaggle Learn) (Ongoing)
+- Data Visualisation in Python (Kaggle Learn) (Ongoing)
+
+- Deep Learning Andrew Ng (deeplearning.ai)
+- Fastai Machine Leanring (fastai ML) (Ongoing)
+- Fastai Deep Learning (Fastai DeepLearning) (To Do.)
+
 - Personal Projects
+  - House Price Prediction (Random Forest/XGBoost/Kaggle_Project)
+  - Stock Market behaviour on shock (Explain data using RF Model and Predict using LSTM).
+  - Cryptocurrency Recommender System (To Do)
