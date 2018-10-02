@@ -6,7 +6,7 @@
     - Math for Data Analysis
 
 2. Getting Intro to Data Science
-    - Introduction to Python for Data Science (DataCamp/edx) along with book. (To Do)
+    - Introduction to Python for Data Analysis (DataCamp/edx) along with book by Wes McKinney. (To Do)
     - Data Manipulation in Python (Kaggle Learn) (Ongoing)
     - Data Visualisation in Python (Kaggle Learn) (Ongoing)
 
