@@ -13,9 +13,12 @@
 3. Going Deep Into Data Science
     - Deep Learning Andrew Ng (deeplearning.ai)
     - Fastai Machine Leanring (fastai ML) (Ongoing)
-    - Fastai Deep Learning (Fastai DeepLearning) (To Do.)
+    - Fastai Deep Learning Live 2018, 2017 (Fastai DeepLearning) (OnGoing)
 
 4. Personal Projects
     - House Price Prediction (Random Forest/XGBoost/Kaggle_Project)
     - Stock Market behaviour on shock (Explain data using RF Model and Predict using LSTM).
     - Cryptocurrency Recommender System (To Do)
+    - Based on FASTAI V1 Build Dog Breed Classification models
+    - Using FASTAI V1 build Car Classification application and hosted it.
+    
