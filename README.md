@@ -21,4 +21,5 @@
     - Cryptocurrency Recommender System (To Do)
     - Based on FASTAI V1 Build Dog Breed Classification models
     - Using FASTAI V1 build Car Classification application and hosted it.
+    - NLP - Summarization of Text using WordFrequency and TextRank.
     
